@@ -2,7 +2,7 @@
 
 https://github.com/berstend/puppeteer-extra/issues/618
 
-# how to
+# install
 npm install
 
 npm start
